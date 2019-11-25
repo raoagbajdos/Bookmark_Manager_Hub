@@ -1,0 +1,12 @@
+#As a user I would like to see a list of bookmarks displayed
+#As a user I would like to be able to add new bookmarks
+#As a user I would like to be able to delete bookmarks
+#As a user I would like to be able to comment on bookmarks
+#As a user I would like to be able to tag bookmarks into categories
+#As a user I would like to be able to be able filter through the list of bookmarks by category
+#As a user I should only be able to see and manage my bookmark contribution
+
+
+#Domain Model
+  #Nouns: User, list, bookmarks and category
+  #Verbs: See, add, delete, comment, tag, filter and manage
